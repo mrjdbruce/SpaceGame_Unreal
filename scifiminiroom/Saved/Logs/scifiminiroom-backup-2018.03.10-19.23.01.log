@@ -1,0 +1,1404 @@
+﻿Log file open, 03/09/18 16:51:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: scifiminiroom
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2080723160) SRandInit(2080723160).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.861059
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.09-16.51.41:299][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.09-16.51.41:299][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.09-16.51.41:334][  0]LogInit: Computer: AZZ122-PC
+[2018.03.09-16.51.41:334][  0]LogInit: User: AZZ122
+[2018.03.09-16.51.41:334][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.09-16.51.41:334][  0]LogInit: High frequency timer resolution =4.115566 MHz
+[2018.03.09-16.51.41:334][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.03.09-16.51.41:334][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.09-16.51.41:334][  0]LogMemory: Process Physical Memory: 300.10 MB used, 300.10 MB peak
+[2018.03.09-16.51.41:334][  0]LogMemory: Process Virtual Memory: 302.59 MB used, 302.59 MB peak
+[2018.03.09-16.51.41:334][  0]LogMemory: Physical Memory: 12677.81 MB used,  19993.12 MB free, 32670.93 MB total
+[2018.03.09-16.51.41:335][  0]LogMemory: Virtual Memory: 696.02 MB used,  19993.12 MB free, 8388608.00 MB total
+[2018.03.09-16.51.42:212][  0]LogInit: Using OS detected language (en-GB).
+[2018.03.09-16.51.42:212][  0]LogInit: Using OS detected locale (en-GB).
+[2018.03.09-16.51.42:243][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.03.09-16.51.43:687][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.09-16.51.43:744][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2018.03.09-16.51.43:744][  0]LogD3D11RHI:       1993/0/16079 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.09-16.51.43:744][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.09-16.51.43:767][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.09-16.51.43:768][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.09-16.51.43:768][  0]LogWindows: EnumDisplayDevices:
+[2018.03.09-16.51.43:768][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2018.03.09-16.51.43:768][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.03.09-16.51.43:769][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.03.09-16.51.43:769][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2018.03.09-16.51.43:769][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.03.09-16.51.43:769][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.03.09-16.51.43:770][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.03.09-16.51.43:770][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.03.09-16.51.43:770][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2018.03.09-16.51.43:770][  0]LogD3D11RHI:   Driver Version: 388.59 (internal:23.21.13.8859, unified:388.59)
+[2018.03.09-16.51.43:770][  0]LogD3D11RHI:      Driver Date: 12-5-2017
+[2018.03.09-16.51.43:770][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.03.09-16.51.43:792][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.09-16.51.43:855][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.09-16.51.43:912][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Intermediate/Shaders/WorkingDirectory/14200/).
+[2018.03.09-16.51.43:913][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/AZZ122/AppData/Local/Temp/UnrealShaderWorkingDir/F481D70442D4ACB86ABA8697FAEE80F8/'.
+[2018.03.09-16.51.43:913][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.09-16.51.47:468][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.09-16.51.47:618][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.09-16.51.47:729][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.09-16.51.47:855][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.09-16.51.47:980][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.09-16.51.48:102][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.09-16.51.48:224][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.09-16.51.48:345][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.09-16.51.48:461][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.09-16.51.48:599][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.09-16.51.48:721][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.09-16.51.48:850][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.09-16.51.48:966][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.09-16.51.49:085][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.09-16.51.49:204][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.09-16.51.49:443][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.09-16.51.49:443][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.09-16.51.49:562][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.09-16.51.49:821][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.09-16.51.49:901][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.09-16.51.50:024][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.09-16.51.50:143][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.09-16.51.50:262][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.09-16.51.50:387][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.09-16.51.50:387][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.09-16.51.52:062][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.09-16.51.52:436][  0]LogDerivedDataCache: Loaded boot cache 0.37s 93MB C:/Users/AZZ122/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.03.09-16.51.52:436][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/AZZ122/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.03.09-16.51.52:436][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.09-16.51.52:436][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.09-16.51.52:437][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.09-16.51.52:437][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.09-16.51.52:487][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.09-16.51.52:499][  0]LogDerivedDataCache: Using Local data cache path C:/Users/AZZ122/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.09-16.51.52:521][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.09-16.51.52:527][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.09-16.51.52:536][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.09-16.51.52:536][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.09-16.51.53:485][  0]LogAssetRegistry: FAssetRegistry took 0.0302 seconds to start up
+[2018.03.09-16.51.53:951][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.09-16.51.53:967][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.03.09-16.51.54:961][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.09-16.51.55:071][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.09-16.51.55:071][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.09-16.51.55:071][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.09-16.51.55:071][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.09-16.51.55:071][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.09-16.51.55:868][  0]LogNetVersion: scifiminiroom , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3209368918)
+[2018.03.09-16.51.56:370][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.061275 seconds
+[2018.03.09-16.51.56:379][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.03.09-16.51.56:379][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.03.09-16.51.56:379][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.09-16.51.56:531][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.09-16.52.03:166][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.09-16.52.03:255][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.09-16.52.04:882][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.09-16.52.05:798][  0]SourceControl: Source control is disabled
+[2018.03.09-16.52.05:798][  0]SourceControl: Source control is disabled
+[2018.03.09-16.52.06:014][  0]SourceControl: Source control is disabled
+[2018.03.09-16.52.06:152][  0]SourceControl: Source control is disabled
+[2018.03.09-16.52.07:775][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.09-16.52.08:384][  0]LogOcInput: OculusInput pre-init called
+[2018.03.09-16.52.09:048][  0]LogEngine: Initializing Engine...
+[2018.03.09-16.52.09:052][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.09-16.52.09:449][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.09-16.52.09:449][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.09-16.52.09:763][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.09-16.52.09:796][  0]LogInit: XAudio2 using '22LG3000-C (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.09-16.52.09:827][  0]LogInit: FAudioDevice initialized.
+[2018.03.09-16.52.09:967][  0]LogDerivedDataCache: Saved boot cache 0.14s 93MB C:/Users/AZZ122/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.03.09-16.52.09:987][  0]LogInit: Texture streaming: Enabled
+[2018.03.09-16.52.10:333][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.09-16.52.10:909][  0]LogInit: Transaction tracking system initialized
+[2018.03.09-16.52.11:711][  0]BlueprintLog: New page: Editor Load
+[2018.03.09-16.52.14:196][  0]LocalizationService: Localization service is disabled
+[2018.03.09-16.52.16:124][  0]LogConsoleResponse: Display: 
+[2018.03.09-16.52.16:538][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.09-16.52.16:538][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.09-16.52.16:540][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.09-16.52.16:775][  0]LogFileCache: Scanning file cache for directory 'C:/Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/' took 0.02s
+[2018.03.09-16.52.19:428][  0]SourceControl: Source control is disabled
+[2018.03.09-16.52.19:431][  0]Cmd: MAP LOAD FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.09-16.52.19:438][  0]LightingResults: New page: Lighting Build
+[2018.03.09-16.52.19:528][  0]MapCheck: New page: Map Check
+[2018.03.09-16.52.19:528][  0]LightingResults: New page: Lighting Build
+[2018.03.09-16.52.20:417][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.03.09-16.52.20:451][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.09-16.52.20:498][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.09-16.52.20:611][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 113.46ms to complete.
+[2018.03.09-16.52.20:612][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.182
+[2018.03.09-16.52.20:907][  0]LogCollectionManager: Loaded 0 collections in 0.002518 seconds
+[2018.03.09-16.52.21:049][  0]LogFileCache: Scanning file cache for directory 'C:/Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/Collections/' took 0.01s
+[2018.03.09-16.52.21:049][  0]LogFileCache: Scanning file cache for directory 'C:/Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/Developers/AZZ122/Collections/' took 0.01s
+[2018.03.09-16.52.21:049][  0]LogFileCache: Scanning file cache for directory 'C:/Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/Collections/' took 0.01s
+[2018.03.09-16.52.21:049][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.09-16.52.21:068][  0]LogContentBrowser: Native class hierarchy populated in 0.0171 seconds. Added 2386 classes and 500 folders.
+[2018.03.09-16.52.21:205][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.03.09-16.52.21:393][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2018.03.09-16.52.21:526][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2018.03.09-16.52.21:626][  0]LogSlate: Took 0.001416 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.09-16.52.21:633][  0]LogSlate: Took 0.001939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.09-16.52.21:643][  0]LogSlate: Took 0.001685 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.09-16.52.21:804][  0]LogRenderer: Reallocating scene render targets to support 628x336 Format 10 NumSamples 1 (Frame:1).
+[2018.03.09-16.52.22:212][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.03.09-16.52.22:212][  0]LogLoad: (Engine Initialization) Total time: 45.64 seconds
+[2018.03.09-16.52.22:212][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.09-16.52.22:213][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.03.09-16.52.22:213][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.03.09-16.52.22:246][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.03.09-16.52.22:334][  0]LogSlate: Took 0.001420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.09-16.52.22:380][  2]LogAssetRegistry: Asset discovery search completed in 28.9168 seconds
+[2018.03.09-16.52.22:383][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.03.09-16.52.22:384][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000092 seconds (updated 0 objects)
+[2018.03.09-16.52.27:659][486]Cmd: MAP LOAD FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.09-16.52.27:667][486]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.09-16.52.27:696][486]LightingResults: New page: Lighting Build
+[2018.03.09-16.52.27:698][486]LoadErrors: New page: Loading map: miniroom.umap
+[2018.03.09-16.52.27:703][486]MapCheck: New page: Map Check
+[2018.03.09-16.52.27:703][486]LightingResults: New page: Lighting Build
+[2018.03.09-16.52.27:992][486]LogAIModule: Creating AISystem for world miniroom
+[2018.03.09-16.52.28:011][486]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.09-16.52.28:067][486]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.09-16.52.28:184][486]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 116.532ms to complete.
+[2018.03.09-16.52.28:184][486]LogFileHelpers: Loading map 'miniroom' took 0.528
+[2018.03.09-16.52.36:669][ 70]LogEditorFactories: Performing atomic reimport of [D:/stuff/my environments/environments/space horror games/scenes/wall extra.fbx]
+[2018.03.09-16.52.36:727][ 70]LogFbx: Loading FBX Scene from D:/stuff/my environments/environments/space horror games/scenes/wall extra.fbx
+[2018.03.09-16.52.36:741][ 70]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.09-16.52.36:758][ 70]LogFbx: Warning: Triangulating static mesh polySurface27
+[2018.03.09-16.52.36:963][ 70]LogStaticMesh: Building static mesh wall_extra...
+[2018.03.09-16.52.36:978][ 70]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPersonBP/wall_extra.wall_extra
+[2018.03.09-16.52.36:994][ 70]LogEditorFactories: -- imported successfully
+[2018.03.09-16.52.37:019][ 70]LogSlate: Took 0.000360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.09-16.52.38:811][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_extra)
+[2018.03.09-16.52.40:283][334]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.09-16.52.40:668][364]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.09-16.52.55:135][576]MapCheck: New page: Map Check
+[2018.03.09-16.52.55:164][576]Cmd: MAP REBUILD ALLVISIBLE
+[2018.03.09-16.52.55:164][576]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.03.09-16.52.55:332][576]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.03.09-16.52.55:347][576]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.03.09-16.52.55:355][576]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2018.03.09-16.52.55:365][576]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy defaultMat, compiling. 
+[2018.03.09-16.52.55:375][576]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ferntex, compiling. 
+[2018.03.09-16.52.55:387][576]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2018.03.09-16.52.59:595][576]TextureStreamingBuild: Display: Compiling optional shaders took 4.274 seconds.
+[2018.03.09-16.52.59:609][576]LogLevel: Display: Export Material TexCoord Scales took 0.014 seconds.
+[2018.03.09-16.52.59:647][576]TextureStreamingBuild: Display: Build Texture Streaming took 0.037 seconds.
+[2018.03.09-16.52.59:683][576]LightingResults: New page: Lighting Build - 9 Mar 2018 16:52:59
+[2018.03.09-16.52.59:893][576]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.03.09-16.53.00:096][576]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.03.09-16.53.00:140][576]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.03.09-16.53.01:215][576]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.03.09-16.53.01:216][576]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14200
+[2018.03.09-16.53.06:565][576]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.03.09-16.53.06:565][576]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.03.09-16.53.06:565][576]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.03.09-16.53.06:565][576]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.03.09-16.53.06:565][576]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.03.09-16.53.06:565][576]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.03.09-16.53.06:866][576]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.03.09-16.53.06:866][576]MapCheck: New page: miniroom - 9 Mar 2018 16:53:06
+[2018.03.09-16.53.06:869][576]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.03.09-16.53.07:039][576]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 172.565ms to complete.
+[2018.03.09-16.53.07:093][576]LogEditorBuildUtils: Build time 0:11
+[2018.03.09-16.53.07:174][576]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Floor, compiling. 
+[2018.03.09-16.53.07:200][576]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Floor, compiling. 
+[2018.03.09-16.53.07:798][578]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ferntex, compiling. 
+[2018.03.09-16.53.07:823][578]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ferntex, compiling. 
+[2018.03.09-16.53.07:833][578]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ferntex, compiling. 
+[2018.03.09-16.53.07:883][579]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2018.03.09-16.53.07:897][579]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2018.03.09-16.53.19:232][598]LightingResults: Warning: Gas_Canister Object has overlapping UVs.
+[2018.03.09-16.53.19:232][598]LightingResults: Gas_Canister Lightmap UV are overlapping by 61.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.19:591][599]LightingResults: Warning: wall_goingup Object has overlapping UVs.
+[2018.03.09-16.53.19:591][599]LightingResults: wall_goingup Lightmap UV are overlapping by 94.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.19:909][600]LightingResults: Warning: power_cell Object has overlapping UVs.
+[2018.03.09-16.53.19:909][600]LightingResults: power_cell Lightmap UV are overlapping by 91.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.19:909][600]LightingResults: Warning: Gas_Canister Object has overlapping UVs.
+[2018.03.09-16.53.19:909][600]LightingResults: Gas_Canister Lightmap UV are overlapping by 61.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.20:587][602]LightingResults: Warning: bottle Object has overlapping UVs.
+[2018.03.09-16.53.20:588][602]LightingResults: bottle Lightmap UV are overlapping by 93.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.20:914][603]LightingResults: Warning: magazines Object has overlapping UVs.
+[2018.03.09-16.53.20:914][603]LightingResults: magazines Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.21:930][606]LightingResults: Warning: wall_pocket Object has overlapping UVs.
+[2018.03.09-16.53.21:930][606]LightingResults: wall_pocket Lightmap UV are overlapping by 98.9%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.22:265][607]LightingResults: Warning: wall_extra Object has overlapping UVs.
+[2018.03.09-16.53.22:265][607]LightingResults: wall_extra Lightmap UV are overlapping by 20.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.22:265][607]LightingResults: Warning: wall_corner Object has overlapping UVs.
+[2018.03.09-16.53.22:265][607]LightingResults: wall_corner Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.23:274][610]LightingResults: Warning: couch Object has overlapping UVs.
+[2018.03.09-16.53.23:274][610]LightingResults: couch Lightmap UV are overlapping by 93.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.23:920][612]LightingResults: Warning: stairs Object has overlapping UVs.
+[2018.03.09-16.53.23:920][612]LightingResults: stairs Lightmap UV are overlapping by 99.6%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.24:303][613]LightingResults: Warning: power_cell Object has overlapping UVs.
+[2018.03.09-16.53.24:303][613]LightingResults: power_cell Lightmap UV are overlapping by 91.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.24:303][613]LightingResults: Warning: wall_1 Object has overlapping UVs.
+[2018.03.09-16.53.24:303][613]LightingResults: wall_1 Lightmap UV are overlapping by 95.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.24:980][615]LightingResults: Warning: fern Object has overlapping UVs.
+[2018.03.09-16.53.24:980][615]LightingResults: fern Lightmap UV are overlapping by 72.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.25:675][617]LightingResults: Warning: fern Object has overlapping UVs.
+[2018.03.09-16.53.25:675][617]LightingResults: fern Lightmap UV are overlapping by 72.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.25:675][617]LightingResults: Warning: cig_tray Object has overlapping UVs.
+[2018.03.09-16.53.25:675][617]LightingResults: cig_tray Lightmap UV are overlapping by 88.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.25:995][618]LightingResults: Warning: C Object has overlapping UVs.
+[2018.03.09-16.53.25:995][618]LightingResults: C Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.25:995][618]LightingResults: Warning: wall_corner Object has overlapping UVs.
+[2018.03.09-16.53.25:995][618]LightingResults: wall_corner Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.26:976][620]LightingResults: Warning: wall_1 Object has overlapping UVs.
+[2018.03.09-16.53.26:976][620]LightingResults: Warning: wall_space_window Object has overlapping UVs.
+[2018.03.09-16.53.26:976][620]LightingResults: wall_space_window Lightmap UV are overlapping by 95.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.26:976][620]LightingResults: wall_1 Lightmap UV are overlapping by 95.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.26:976][620]LightingResults: Warning: main_entrance Object has overlapping UVs.
+[2018.03.09-16.53.26:976][620]LightingResults: main_entrance Lightmap UV are overlapping by 98.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.28:097][622]LightingResults: Warning: bottle Object has overlapping UVs.
+[2018.03.09-16.53.28:097][622]LightingResults: bottle Lightmap UV are overlapping by 93.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.28:097][622]LightingResults: Warning: wall_1 Object has overlapping UVs.
+[2018.03.09-16.53.28:097][622]LightingResults: wall_1 Lightmap UV are overlapping by 95.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.29:085][623]LightingResults: Warning: wall_1 Object has overlapping UVs.
+[2018.03.09-16.53.29:085][623]LightingResults: wall_1 Lightmap UV are overlapping by 95.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.29:085][623]LightingResults: Warning: bottle Object has overlapping UVs.
+[2018.03.09-16.53.29:085][623]LightingResults: bottle Lightmap UV are overlapping by 93.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.29:771][625]LightingResults: Warning: aircon Object has overlapping UVs.
+[2018.03.09-16.53.29:771][625]LightingResults: aircon Lightmap UV are overlapping by 90.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.30:642][626]LightingResults: Warning: wall_pocket Object has overlapping UVs.
+[2018.03.09-16.53.30:642][626]LightingResults: wall_pocket Lightmap UV are overlapping by 98.9%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.30:965][627]LightingResults: Warning: wall_1 Object has overlapping UVs.
+[2018.03.09-16.53.30:965][627]LightingResults: wall_1 Lightmap UV are overlapping by 95.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.31:623][629]Job is a success!
+[2018.03.09-16.53.31:623][629]LightingResults: Warning: wall_1 Object has overlapping UVs.
+[2018.03.09-16.53.31:623][629]LightingResults: wall_1 Lightmap UV are overlapping by 95.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.53.32:558][631]LogMaterial: Warning: Material /Game/ThirdPersonBP/ferntex.ferntex needed to have new flag set bUsedWithStaticLighting !
+[2018.03.09-16.53.32:567][631]LogMaterial: Missing cached shader map for material ferntex, compiling. 
+[2018.03.09-16.53.32:865][631]LogMaterial: Warning: Material /Game/ThirdPersonBP/lambert1.lambert1 needed to have new flag set bUsedWithStaticLighting !
+[2018.03.09-16.53.32:895][631]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.03.09-16.53.34:229][631]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.03.09-16.53.34:229][631]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.03.09-16.53.34:229][631]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.03.09-16.53.34:229][631]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.03.09-16.53.34:229][631]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.03.09-16.53.34:229][631]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.03.09-16.53.38:255][631]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 128X512)
+[2018.03.09-16.53.38:255][631]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 32X32)
+[2018.03.09-16.53.38:255][631]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X256)
+[2018.03.09-16.53.39:500][631]Lightmass on AZZ122-PC: 21.1 sec total, 314 ms importing, 87 ms setup, 869 ms photons, 19.6 sec processing, 0 ms extra exporting [46/46 mappings]. Threads: 1:18 min total, 36.4 sec processing.
+[2018.03.09-16.53.39:585][631]LogStaticLightingSystem: Illumination: 39.4 sec (1.22 sec encoding lightmaps, 4.00 sec encoding shadowmaps)
+[2018.03.09-16.53.39:586][631]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2018.03.09-16.53.39:586][631]LogStaticLightingSystem: Shadowmap texture memory: 1.7 MB (1.3 MB streaming, 0.3 MB non-streaming), 3 textures
+[2018.03.09-16.53.40:000][631]DumpUnbuiltLightIteractions
+[2018.03.09-16.53.40:000][631]Lights with unbuilt interactions: 0
+[2018.03.09-16.53.40:000][631]
+[2018.03.09-16.53.40:000][631]Primitives with unbuilt interactions: 0
+[2018.03.09-16.53.40:030][632]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.03.09-16.53.40:030][632]MapCheck: New page: miniroom - 9 Mar 2018 16:53:40
+[2018.03.09-16.53.40:198][632]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 168.128ms to complete.
+[2018.03.09-16.54.36:064][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_extra)
+[2018.03.09-16.54.37:874][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_extra)
+[2018.03.09-16.54.40:364][453]LogRenderer: Reallocating scene render targets to support 952x564 Format 10 NumSamples 1 (Frame:1).
+[2018.03.09-16.55.20:005][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_extra)
+[2018.03.09-16.55.20:787][877]Cmd: DELETE
+[2018.03.09-16.55.20:787][877]Cmd: ACTOR DELETE
+[2018.03.09-16.55.20:795][877]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.03.09-16.55.20:819][877]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.03.09-16.55.49:452][130]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/stuff/my environments/environments/space horror games/scenes/wall extra.fbx)
+[2018.03.09-16.55.49:465][130]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.03.09-16.55.49:465][130]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.03.09-16.55.49:465][130]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.03.09-16.55.49:465][130]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.03.09-16.55.49:465][130]LogFbx: ItemName: Material, ItemCount : 1
+[2018.03.09-16.55.49:465][130]LogFbx: ItemName: Model, ItemCount : 1
+[2018.03.09-16.55.49:483][130]LogFbx: Loading FBX Scene from D:/stuff/my environments/environments/space horror games/scenes/wall extra.fbx
+[2018.03.09-16.55.49:494][130]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.09-16.56.01:287][130]LogFbx: Loading FBX Scene from D:/stuff/my environments/environments/space horror games/scenes/wall extra.fbx
+[2018.03.09-16.56.01:297][130]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.09-16.56.01:302][130]LogFbx: Warning: Triangulating static mesh polySurface27
+[2018.03.09-16.56.01:503][130]LogStaticMesh: Building static mesh wall_extra...
+[2018.03.09-16.56.01:535][130]LogStaticMesh: Built static mesh [0.03s] /Game/ThirdPersonBP/wall_extra.wall_extra
+[2018.03.09-16.56.03:258][220]LogActorFactory: Actor Factory created wall_extra
+[2018.03.09-16.56.03:934][278]LogActorFactory: Actor Factory created wall_extra
+[2018.03.09-16.57.37:888][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (main_entrance)
+[2018.03.09-16.57.38:990][ 77]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.09-16.57.57:364][593]MapCheck: New page: Map Check
+[2018.03.09-16.57.57:386][593]Cmd: MAP REBUILD ALLVISIBLE
+[2018.03.09-16.57.57:386][593]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.03.09-16.57.57:446][593]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.03.09-16.57.57:457][593]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.03.09-16.57.57:464][593]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2018.03.09-16.57.57:475][593]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy defaultMat, compiling. 
+[2018.03.09-16.57.57:489][593]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ferntex, compiling. 
+[2018.03.09-16.57.57:501][593]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2018.03.09-16.58.01:101][593]TextureStreamingBuild: Display: Compiling optional shaders took 3.663 seconds.
+[2018.03.09-16.58.01:111][593]LogLevel: Display: Export Material TexCoord Scales took 0.010 seconds.
+[2018.03.09-16.58.01:124][593]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2018.03.09-16.58.01:146][593]LightingResults: New page: Lighting Build - 9 Mar 2018 16:58:01
+[2018.03.09-16.58.01:157][593]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.03.09-16.58.01:160][593]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.03.09-16.58.01:160][593]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.03.09-16.58.01:163][593]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.03.09-16.58.01:164][593]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14200
+[2018.03.09-16.58.05:703][593]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.03.09-16.58.05:703][593]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.03.09-16.58.05:703][593]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.03.09-16.58.05:703][593]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.03.09-16.58.05:703][593]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.03.09-16.58.05:703][593]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.03.09-16.58.05:828][593]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.03.09-16.58.05:828][593]MapCheck: New page: miniroom - 9 Mar 2018 16:58:05
+[2018.03.09-16.58.05:829][593]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.03.09-16.58.05:968][593]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 140.408ms to complete.
+[2018.03.09-16.58.05:990][593]LogEditorBuildUtils: Build time 0:08
+[2018.03.09-16.58.06:203][594]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ferntex, compiling. 
+[2018.03.09-16.58.06:219][594]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ferntex, compiling. 
+[2018.03.09-16.58.06:243][594]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer ferntex, compiling. 
+[2018.03.09-16.58.08:678][595]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2018.03.09-16.58.08:719][595]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer lambert1, compiling. 
+[2018.03.09-16.58.16:037][725]LightingResults: Warning: magazines Object has overlapping UVs.
+[2018.03.09-16.58.16:037][725]LightingResults: magazines Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.16:562][739]LightingResults: Warning: power_cell Object has overlapping UVs.
+[2018.03.09-16.58.16:562][739]LightingResults: power_cell Lightmap UV are overlapping by 91.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.18:499][760]LightingResults: Warning: wall_pocket Object has overlapping UVs.
+[2018.03.09-16.58.18:499][760]LightingResults: wall_pocket Lightmap UV are overlapping by 98.9%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.18:499][760]LightingResults: Warning: main_entrance Object has overlapping UVs.
+[2018.03.09-16.58.18:499][760]LightingResults: Warning: power_cell Object has overlapping UVs.
+[2018.03.09-16.58.18:499][760]LightingResults: power_cell Lightmap UV are overlapping by 91.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.18:646][761]LightingResults: main_entrance Lightmap UV are overlapping by 98.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.18:646][761]LightingResults: Warning: Gas_Canister Object has overlapping UVs.
+[2018.03.09-16.58.18:646][761]LightingResults: Gas_Canister Lightmap UV are overlapping by 61.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.20:520][828]LightingResults: Warning: bottle Object has overlapping UVs.
+[2018.03.09-16.58.21:271][847]LightingResults: bottle Lightmap UV are overlapping by 93.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.23:773][850]LightingResults: Warning: stairs Object has overlapping UVs.
+[2018.03.09-16.58.23:773][850]LightingResults: stairs Lightmap UV are overlapping by 99.6%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.23:773][850]LightingResults: Warning: wall_1 Object has overlapping UVs.
+[2018.03.09-16.58.23:773][850]LightingResults: wall_1 Lightmap UV are overlapping by 95.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.23:773][850]LightingResults: Warning: wall_corner Object has overlapping UVs.
+[2018.03.09-16.58.23:773][850]LightingResults: wall_corner Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.24:587][865]LightingResults: Warning: wall_space_window Object has overlapping UVs.
+[2018.03.09-16.58.24:587][865]LightingResults: wall_space_window Lightmap UV are overlapping by 95.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.25:169][878]LightingResults: Warning: Gas_Canister Object has overlapping UVs.
+[2018.03.09-16.58.25:488][885]LightingResults: Warning: couch Object has overlapping UVs.
+[2018.03.09-16.58.25:488][885]LightingResults: couch Lightmap UV are overlapping by 93.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.25:488][885]LightingResults: Gas_Canister Lightmap UV are overlapping by 61.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.26:315][909]LightingResults: Warning: fern Object has overlapping UVs.
+[2018.03.09-16.58.26:335][910]LightingResults: fern Lightmap UV are overlapping by 72.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.27:110][930]LightingResults: Warning: fern Object has overlapping UVs.
+[2018.03.09-16.58.27:110][930]LightingResults: fern Lightmap UV are overlapping by 72.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.27:366][932]LightingResults: Warning: aircon Object has overlapping UVs.
+[2018.03.09-16.58.27:366][932]LightingResults: aircon Lightmap UV are overlapping by 90.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.27:725][942]LightingResults: Warning: C Object has overlapping UVs.
+[2018.03.09-16.58.28:126][952]LightingResults: C Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.28:126][952]LightingResults: Warning: cig_tray Object has overlapping UVs.
+[2018.03.09-16.58.28:126][952]LightingResults: cig_tray Lightmap UV are overlapping by 88.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.29:112][961]LightingResults: Warning: wall_1 Object has overlapping UVs.
+[2018.03.09-16.58.29:112][961]LightingResults: wall_1 Lightmap UV are overlapping by 95.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.29:341][964]LightingResults: Warning: wall_pocket Object has overlapping UVs.
+[2018.03.09-16.58.30:486][980]LightingResults: Warning: bottle Object has overlapping UVs.
+[2018.03.09-16.58.30:486][980]LightingResults: bottle Lightmap UV are overlapping by 93.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.30:486][980]LightingResults: Warning: wall_corner Object has overlapping UVs.
+[2018.03.09-16.58.30:486][980]LightingResults: wall_pocket Lightmap UV are overlapping by 98.9%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.30:960][994]LightingResults: Warning: wall_1 Object has overlapping UVs.
+[2018.03.09-16.58.30:960][994]LightingResults: wall_corner Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.30:993][995]LightingResults: wall_1 Lightmap UV are overlapping by 95.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.31:814][ 10]LightingResults: Warning: bottle Object has overlapping UVs.
+[2018.03.09-16.58.32:310][ 24]LightingResults: Warning: wall_1 Object has overlapping UVs.
+[2018.03.09-16.58.32:310][ 24]LightingResults: bottle Lightmap UV are overlapping by 93.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.32:310][ 24]LightingResults: wall_1 Lightmap UV are overlapping by 95.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.32:675][ 28]LightingResults: Warning: wall_goingup Object has overlapping UVs.
+[2018.03.09-16.58.32:675][ 28]LightingResults: wall_goingup Lightmap UV are overlapping by 94.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.33:148][ 34]LightingResults: Warning: wall_1 Object has overlapping UVs.
+[2018.03.09-16.58.33:600][ 45]LightingResults: wall_1 Lightmap UV are overlapping by 95.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.34:021][ 59]Job is a success!
+[2018.03.09-16.58.34:022][ 59]LightingResults: Warning: wall_1 Object has overlapping UVs.
+[2018.03.09-16.58.34:022][ 59]LightingResults: wall_1 Lightmap UV are overlapping by 95.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-16.58.35:012][ 60]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.03.09-16.58.35:012][ 60]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.03.09-16.58.35:012][ 60]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.03.09-16.58.35:012][ 60]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.03.09-16.58.35:012][ 60]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.03.09-16.58.35:012][ 60]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.03.09-16.58.35:142][ 60]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2018.03.09-16.58.35:142][ 60]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (BGRA8, 128X512)
+[2018.03.09-16.58.35:142][ 60]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (BGRA8, 1024X256)
+[2018.03.09-16.58.35:204][ 60]LogStaticLightingSystem: Illumination: 34.0 sec (851 ms encoding lightmaps, 120 ms encoding shadowmaps)
+[2018.03.09-16.58.35:204][ 60]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2018.03.09-16.58.35:204][ 60]LogStaticLightingSystem: Shadowmap texture memory: 1.7 MB (1.3 MB streaming, 0.3 MB non-streaming), 3 textures
+[2018.03.09-16.58.35:760][ 60]DumpUnbuiltLightIteractions
+[2018.03.09-16.58.35:760][ 60]Lights with unbuilt interactions: 0
+[2018.03.09-16.58.35:760][ 60]
+[2018.03.09-16.58.35:760][ 60]Primitives with unbuilt interactions: 0
+[2018.03.09-16.58.35:784][ 61]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.03.09-16.58.35:784][ 61]MapCheck: New page: miniroom - 9 Mar 2018 16:58:35
+[2018.03.09-16.58.35:918][ 61]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 134.224ms to complete.
+[2018.03.09-16.59.03:241][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_extra)
+[2018.03.09-16.59.04:497][133]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.09-16.59.11:882][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_extra)
+[2018.03.09-16.59.43:938][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/wall_extra" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/wall_extra.uasset" SILENT=true
+[2018.03.09-16.59.43:960][637]LogSavePackage: Save=19.34ms
+[2018.03.09-16.59.43:960][637]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/wall_extra38E0196D42AFC562005B2EB89B5FAC1A.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/wall_extra.uasset'
+[2018.03.09-16.59.43:963][637]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/wall_extra.uasset
+[2018.03.09-16.59.58:635][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_pocket)
+[2018.03.09-16.59.59:594][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_2)
+[2018.03.09-17.00.05:659][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.09-17.00.05:855][159]LogSavePackage: Save=142.88ms
+[2018.03.09-17.00.05:855][159]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroom547D2AC242A012A293BD5DA1D58A86E2.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap'
+[2018.03.09-17.00.05:860][159]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap
+[2018.03.09-17.00.05:894][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom_BuiltData" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset" SILENT=true
+[2018.03.09-17.00.06:071][159]LogSavePackage: Save=160.31ms
+[2018.03.09-17.00.06:071][159]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroom_BuiltDataA936C25E4160134B2AD2E1B352142F7D.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset'
+[2018.03.09-17.00.06:074][159]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset
+[2018.03.09-17.10.06:264][995]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/miniroom' took 0.025
+[2018.03.09-17.10.06:268][995]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/ferntex] ([1] browsable assets)...
+[2018.03.09-17.10.06:353][995]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/ferntex.ferntex]
+[2018.03.09-17.10.06:353][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/ferntex]
+[2018.03.09-17.10.06:412][995]LogSavePackage: Save=33.48ms
+[2018.03.09-17.10.06:412][995]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/ferntex_Auto1F8A08D464FAC9E9151AA33A537743B2E.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/Autosaves/Game/ThirdPersonBP/ferntex_Auto1.uasset'
+[2018.03.09-17.10.06:417][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/Autosaves/Game/ThirdPersonBP/ferntex_Auto1.uasset
+[2018.03.09-17.10.06:418][995]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/lambert1] ([1] browsable assets)...
+[2018.03.09-17.10.06:505][995]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPersonBP/lambert1.lambert1]
+[2018.03.09-17.10.06:505][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/lambert1]
+[2018.03.09-17.10.06:542][995]LogSavePackage: Save=18.97ms
+[2018.03.09-17.10.06:542][995]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/lambert1_Auto1395329B8422AA0ACEEADAB828E875F27.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/Autosaves/Game/ThirdPersonBP/lambert1_Auto1.uasset'
+[2018.03.09-17.10.06:547][995]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/Autosaves/Game/ThirdPersonBP/lambert1_Auto1.uasset
+[2018.03.09-17.10.06:547][995]LogFileHelpers: Auto-saving content packages took 0.281
+[2018.03.09-17.34.08:438][580]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.09-17.34.08:509][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.09-17.34.08:509][580]PIE: New page: PIE session: miniroom (9 Mar 2018 17:34:08)
+[2018.03.09-17.34.08:510][580]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_miniroom
+[2018.03.09-17.34.08:520][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010733s)
+[2018.03.09-17.34.08:522][580]LogAIModule: Creating AISystem for world miniroom
+[2018.03.09-17.34.08:522][580]LogPlayLevel: PIE: World Init took: (0.001384s)
+[2018.03.09-17.34.08:522][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/miniroom.miniroom to /Game/UEDPIE_0_miniroom.miniroom (0.012469s)
+[2018.03.09-17.34.08:587][580]LogInit: XAudio2 using '22LG3000-C (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.09-17.34.08:600][580]LogInit: FAudioDevice initialized.
+[2018.03.09-17.34.08:778][580]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.03.09-17.34.08:783][580]LogWorld: Bringing World /Game/UEDPIE_0_miniroom.miniroom up for play (max tick rate 0) at 2018.03.09-17.34.08
+[2018.03.09-17.34.08:784][580]LogWorld: Bringing up level for play took: 0.003415
+[2018.03.09-17.34.08:923][580]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2018.03.09-17.34.08:927][580]PIE: Play in editor start time for /Game/UEDPIE_0_miniroom 0.195
+[2018.03.09-17.35.21:915][421]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_pocket2)
+[2018.03.09-17.35.29:578][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.09-17.35.45:379][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.09-17.35.45:596][238]LogSavePackage: Save=153.99ms
+[2018.03.09-17.35.45:596][238]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroomC008831F472006CBC8DDF3802A675BA0.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap'
+[2018.03.09-17.35.45:598][238]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap
+[2018.03.09-17.35.45:631][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom_BuiltData" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset" SILENT=true
+[2018.03.09-17.35.45:812][238]LogSavePackage: Save=159.29ms
+[2018.03.09-17.35.45:812][238]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroom_BuiltDataADDF812A44FE22888F552D8EA97E9CCC.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset'
+[2018.03.09-17.35.45:814][238]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset
+[2018.03.09-17.35.52:729][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.09-17.35.52:902][758]LogSavePackage: Save=137.74ms
+[2018.03.09-17.35.52:902][758]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroomAFF7D8274300D9CA906EEC8D9DD425BE.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap'
+[2018.03.09-17.35.52:906][758]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap
+[2018.03.09-17.35.52:937][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom_BuiltData" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset" SILENT=true
+[2018.03.09-17.35.53:126][758]LogSavePackage: Save=173.00ms
+[2018.03.09-17.35.53:126][758]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroom_BuiltData4EF92F3C4941829D6123F882921D7E0B.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset'
+[2018.03.09-17.35.53:129][758]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset
+[2018.03.09-17.50.42:754][783]LogEditorFactories: Performing atomic reimport of [D:/stuff/my environments/environments/space horror games/scenes/wall 1.obj]
+[2018.03.09-17.50.42:811][783]LogFbx: Loading FBX Scene from D:/stuff/my environments/environments/space horror games/scenes/wall 1.obj
+[2018.03.09-17.50.42:827][783]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.09-17.50.42:837][783]LogFbx: Warning: Triangulating static mesh default
+[2018.03.09-17.50.43:059][783]LogStaticMesh: Building static mesh wall_1...
+[2018.03.09-17.50.43:075][783]LogStaticMesh: Built static mesh [0.02s] /Game/ThirdPersonBP/wall_1.wall_1
+[2018.03.09-17.50.43:090][783]LogEditorFactories: -- imported successfully
+[2018.03.09-17.51.11:688][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_3)
+[2018.03.09-17.51.34:618][957]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_2)
+[2018.03.09-17.51.46:169][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_1)
+[2018.03.09-17.51.52:656][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_pocket)
+[2018.03.09-17.51.53:790][542]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.09-17.51.56:961][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_2)
+[2018.03.09-17.52.12:672][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_1)
+[2018.03.09-17.52.21:993][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.09-17.52.32:278][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4)
+[2018.03.09-17.52.47:946][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.09-17.52.51:472][ 53]MapCheck: New page: Map Check
+[2018.03.09-17.52.51:497][ 53]Cmd: MAP REBUILD ALLVISIBLE
+[2018.03.09-17.52.51:497][ 53]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.03.09-17.52.51:552][ 53]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.03.09-17.52.51:563][ 53]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.03.09-17.52.51:570][ 53]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_3, compiling. 
+[2018.03.09-17.52.51:581][ 53]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy defaultMat, compiling. 
+[2018.03.09-17.52.51:596][ 53]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ferntex, compiling. 
+[2018.03.09-17.52.51:609][ 53]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2018.03.09-17.52.56:281][ 53]TextureStreamingBuild: Display: Compiling optional shaders took 4.738 seconds.
+[2018.03.09-17.52.56:290][ 53]LogLevel: Display: Export Material TexCoord Scales took 0.009 seconds.
+[2018.03.09-17.52.56:305][ 53]TextureStreamingBuild: Display: Build Texture Streaming took 0.015 seconds.
+[2018.03.09-17.53.20:593][ 53]LightingResults: New page: Lighting Build - 9 Mar 2018 17:53:20
+[2018.03.09-17.53.20:652][ 53]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.03.09-17.53.20:655][ 53]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.03.09-17.53.20:655][ 53]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.03.09-17.53.20:656][ 53]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.03.09-17.53.20:656][ 53]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14200
+[2018.03.09-17.53.25:165][ 53]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.03.09-17.53.25:165][ 53]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.03.09-17.53.25:165][ 53]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.03.09-17.53.25:165][ 53]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.03.09-17.53.25:165][ 53]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.03.09-17.53.25:165][ 53]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.03.09-17.53.25:279][ 53]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.03.09-17.53.25:280][ 53]MapCheck: New page: miniroom - 9 Mar 2018 17:53:25
+[2018.03.09-17.53.25:281][ 53]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.03.09-17.53.25:407][ 53]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 127.854ms to complete.
+[2018.03.09-17.53.25:428][ 53]LogEditorBuildUtils: Build time 0:33
+[2018.03.09-17.53.26:516][ 54]LogSavePackage: Save=149.51ms
+[2018.03.09-17.53.26:516][ 54]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroom_Auto2A98496DB4320F06BC79818BE0EA32249.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/Autosaves/Game/miniroom_Auto2.umap'
+[2018.03.09-17.53.26:519][ 54]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/Autosaves/Game/miniroom_Auto2.umap
+[2018.03.09-17.53.26:522][ 54]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/miniroom' took 0.223
+[2018.03.09-17.53.26:522][ 54]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.223
+[2018.03.09-17.53.26:529][ 54]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/wall_1] ([1] browsable assets)...
+[2018.03.09-17.53.26:560][ 54]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/wall_1.wall_1]
+[2018.03.09-17.53.26:560][ 54]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/wall_1]
+[2018.03.09-17.53.26:601][ 54]LogSavePackage: Save=18.91ms
+[2018.03.09-17.53.26:601][ 54]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/wall_1_Auto2625331284B4AB879BF3CF2BAF876C0B1.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/Autosaves/Game/ThirdPersonBP/wall_1_Auto2.uasset'
+[2018.03.09-17.53.26:602][ 54]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/Autosaves/Game/ThirdPersonBP/wall_1_Auto2.uasset
+[2018.03.09-17.53.26:602][ 54]LogFileHelpers: Auto-saving content packages took 0.074
+[2018.03.09-17.53.32:217][185]LightingResults: Warning: magazines Object has overlapping UVs.
+[2018.03.09-17.53.32:217][185]LightingResults: magazines Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.32:217][185]LightingResults: Warning: power_cell Object has overlapping UVs.
+[2018.03.09-17.53.32:217][185]LightingResults: power_cell Lightmap UV are overlapping by 91.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.33:903][189]LightingResults: Warning: main_entrance Object has overlapping UVs.
+[2018.03.09-17.53.33:903][189]LightingResults: main_entrance Lightmap UV are overlapping by 98.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.33:903][189]LightingResults: Warning: power_cell Object has overlapping UVs.
+[2018.03.09-17.53.33:903][189]LightingResults: power_cell Lightmap UV are overlapping by 91.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.33:903][189]LightingResults: Warning: Gas_Canister Object has overlapping UVs.
+[2018.03.09-17.53.34:280][190]LightingResults: Gas_Canister Lightmap UV are overlapping by 61.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.34:281][190]LightingResults: Warning: wall_pocket Object has overlapping UVs.
+[2018.03.09-17.53.34:281][190]LightingResults: wall_pocket Lightmap UV are overlapping by 98.9%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.34:889][191]LightingResults: Warning: bottle Object has overlapping UVs.
+[2018.03.09-17.53.34:890][191]LightingResults: bottle Lightmap UV are overlapping by 93.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.35:877][194]LightingResults: Warning: wall_corner Object has overlapping UVs.
+[2018.03.09-17.53.35:879][194]LightingResults: wall_corner Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.36:554][196]LightingResults: Warning: wall_space_window Object has overlapping UVs.
+[2018.03.09-17.53.36:554][196]LightingResults: wall_space_window Lightmap UV are overlapping by 95.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.37:550][199]LightingResults: Warning: couch Object has overlapping UVs.
+[2018.03.09-17.53.37:551][199]LightingResults: couch Lightmap UV are overlapping by 93.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.37:551][199]LightingResults: Warning: Gas_Canister Object has overlapping UVs.
+[2018.03.09-17.53.37:551][199]LightingResults: Gas_Canister Lightmap UV are overlapping by 61.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.38:230][201]LightingResults: Warning: stairs Object has overlapping UVs.
+[2018.03.09-17.53.38:230][201]LightingResults: Warning: fern Object has overlapping UVs.
+[2018.03.09-17.53.38:230][201]LightingResults: fern Lightmap UV are overlapping by 72.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.38:584][202]LightingResults: stairs Lightmap UV are overlapping by 99.6%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.39:233][204]LightingResults: Warning: fern Object has overlapping UVs.
+[2018.03.09-17.53.39:233][204]LightingResults: fern Lightmap UV are overlapping by 72.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.39:233][204]LightingResults: Warning: cig_tray Object has overlapping UVs.
+[2018.03.09-17.53.39:234][204]LightingResults: cig_tray Lightmap UV are overlapping by 88.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.39:560][205]LightingResults: Warning: C Object has overlapping UVs.
+[2018.03.09-17.53.39:561][205]LightingResults: C Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.39:562][205]LightingResults: Warning: aircon Object has overlapping UVs.
+[2018.03.09-17.53.39:562][205]LightingResults: aircon Lightmap UV are overlapping by 90.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.39:900][206]LightingResults: Warning: wall_corner Object has overlapping UVs.
+[2018.03.09-17.53.39:900][206]LightingResults: wall_corner Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.40:917][209]LightingResults: Warning: bottle Object has overlapping UVs.
+[2018.03.09-17.53.40:917][209]LightingResults: bottle Lightmap UV are overlapping by 93.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.41:236][210]LightingResults: Warning: bottle Object has overlapping UVs.
+[2018.03.09-17.53.41:236][210]LightingResults: bottle Lightmap UV are overlapping by 93.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.41:571][211]LightingResults: Warning: wall_goingup Object has overlapping UVs.
+[2018.03.09-17.53.41:571][211]LightingResults: wall_goingup Lightmap UV are overlapping by 94.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.43:921][218]Job is a success!
+[2018.03.09-17.53.43:922][218]LightingResults: Warning: wall_pocket Object has overlapping UVs.
+[2018.03.09-17.53.43:922][218]LightingResults: wall_pocket Lightmap UV are overlapping by 98.9%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-17.53.45:395][219]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.03.09-17.53.45:395][219]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.03.09-17.53.45:395][219]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.03.09-17.53.45:395][219]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.03.09-17.53.45:395][219]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.03.09-17.53.45:395][219]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.03.09-17.53.45:545][219]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 32X32)
+[2018.03.09-17.53.45:545][219]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (BGRA8, 128X512)
+[2018.03.09-17.53.45:545][219]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 1024X256)
+[2018.03.09-17.53.45:611][219]Lightmass on AZZ122-PC: 15.5 sec total, 825 ms importing, 77 ms setup, 646 ms photons, 13.8 sec processing, 0 ms extra exporting [46/46 mappings]. Threads: 55.4 sec total, 32.3 sec processing.
+[2018.03.09-17.53.45:617][219]LogStaticLightingSystem: Illumination: 24.6 sec (964 ms encoding lightmaps, 148 ms encoding shadowmaps)
+[2018.03.09-17.53.45:617][219]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2018.03.09-17.53.45:617][219]LogStaticLightingSystem: Shadowmap texture memory: 1.7 MB (1.3 MB streaming, 0.3 MB non-streaming), 3 textures
+[2018.03.09-17.53.46:173][219]DumpUnbuiltLightIteractions
+[2018.03.09-17.53.46:173][219]Lights with unbuilt interactions: 0
+[2018.03.09-17.53.46:173][219]
+[2018.03.09-17.53.46:173][219]Primitives with unbuilt interactions: 0
+[2018.03.09-17.53.46:197][220]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.03.09-17.53.46:197][220]MapCheck: New page: miniroom - 9 Mar 2018 17:53:46
+[2018.03.09-17.53.46:350][220]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 152.848ms to complete.
+[2018.03.09-17.54.27:111][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_4)
+[2018.03.09-17.54.58:769][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.09-17.54.58:977][719]LogSavePackage: Save=139.19ms
+[2018.03.09-17.54.58:977][719]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroom7981E2DB4873BA7364EE878A5FEFD3BD.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap'
+[2018.03.09-17.54.58:980][719]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap
+[2018.03.09-17.54.59:018][719]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom_BuiltData" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset" SILENT=true
+[2018.03.09-17.54.59:206][719]LogSavePackage: Save=167.58ms
+[2018.03.09-17.54.59:206][719]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroom_BuiltDataE58794944628ACB08C61FD89B3A3F524.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset'
+[2018.03.09-17.54.59:210][719]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset
+[2018.03.09-18.18.13:660][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.09-18.18.13:883][734]LogSavePackage: Save=142.76ms
+[2018.03.09-18.18.13:884][734]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroom5283530B46A1F07A03E46FB0EF10B57B.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap'
+[2018.03.09-18.18.13:885][734]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap
+[2018.03.09-18.18.13:928][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom_BuiltData" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset" SILENT=true
+[2018.03.09-18.18.14:145][734]LogSavePackage: Save=195.52ms
+[2018.03.09-18.18.14:145][734]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroom_BuiltData821A908748EB2C6A2F3AF1936B6D9383.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset'
+[2018.03.09-18.18.14:147][734]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset
+[2018.03.09-19.04.55:390][428]LogEditorFactories: Performing atomic reimport of [D:/stuff/my environments/environments/space horror games/scenes/wall corner.fbx]
+[2018.03.09-19.04.55:429][428]LogFbx: Loading FBX Scene from D:/stuff/my environments/environments/space horror games/scenes/wall corner.fbx
+[2018.03.09-19.04.55:444][428]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.09-19.04.55:447][428]LogFbx: Warning: Triangulating static mesh polySurface9
+[2018.03.09-19.04.55:523][428]LogStaticMesh: Building static mesh wall_corner...
+[2018.03.09-19.04.55:526][428]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/wall_corner.wall_corner
+[2018.03.09-19.04.55:540][428]LogEditorFactories: -- imported successfully
+[2018.03.09-19.05.04:677][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_corner2)
+[2018.03.09-19.05.12:928][898]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.09-19.05.19:711][507]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.09-19.05.50:932][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_corner)
+[2018.03.09-19.05.52:852][285]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.03.09-19.06.32:321][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.09-19.06.37:512][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_corner)
+[2018.03.09-19.06.40:541][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_corner2)
+[2018.03.09-19.06.48:066][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.09-19.06.53:388][734]MapCheck: New page: Map Check
+[2018.03.09-19.06.53:409][734]Cmd: MAP REBUILD ALLVISIBLE
+[2018.03.09-19.06.53:409][734]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.03.09-19.06.53:463][734]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.03.09-19.06.53:474][734]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.03.09-19.06.53:482][734]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_32, compiling. 
+[2018.03.09-19.06.53:493][734]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy defaultMat, compiling. 
+[2018.03.09-19.06.53:522][734]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ferntex, compiling. 
+[2018.03.09-19.06.53:533][734]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2018.03.09-19.06.57:616][734]TextureStreamingBuild: Display: Compiling optional shaders took 4.160 seconds.
+[2018.03.09-19.06.57:631][734]LogLevel: Display: Export Material TexCoord Scales took 0.015 seconds.
+[2018.03.09-19.06.57:656][734]TextureStreamingBuild: Display: Build Texture Streaming took 0.023 seconds.
+[2018.03.09-19.06.57:677][734]LightingResults: New page: Lighting Build - 9 Mar 2018 19:06:57
+[2018.03.09-19.06.57:704][734]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.03.09-19.06.57:706][734]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.03.09-19.06.57:706][734]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.03.09-19.06.57:708][734]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.03.09-19.06.57:708][734]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14200
+[2018.03.09-19.07.02:216][734]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.03.09-19.07.02:216][734]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.03.09-19.07.02:216][734]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.03.09-19.07.02:216][734]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.03.09-19.07.02:216][734]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.03.09-19.07.02:216][734]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.03.09-19.07.02:321][734]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.03.09-19.07.02:321][734]MapCheck: New page: miniroom - 9 Mar 2018 19:07:02
+[2018.03.09-19.07.02:323][734]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.03.09-19.07.02:421][734]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 99.766ms to complete.
+[2018.03.09-19.07.02:443][734]LogEditorBuildUtils: Build time 0:09
+[2018.03.09-19.07.07:576][889]LightingResults: Warning: magazines Object has overlapping UVs.
+[2018.03.09-19.07.07:619][890]LightingResults: magazines Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.09:464][937]LightingResults: Warning: wall_pocket Object has overlapping UVs.
+[2018.03.09-19.07.09:675][945]LightingResults: wall_pocket Lightmap UV are overlapping by 98.9%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.09:815][949]LightingResults: Warning: power_cell Object has overlapping UVs.
+[2018.03.09-19.07.09:815][949]LightingResults: power_cell Lightmap UV are overlapping by 91.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.10:395][965]LightingResults: Warning: main_entrance Object has overlapping UVs.
+[2018.03.09-19.07.10:395][965]LightingResults: main_entrance Lightmap UV are overlapping by 98.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.10:570][967]LightingResults: Warning: Gas_Canister Object has overlapping UVs.
+[2018.03.09-19.07.10:570][967]LightingResults: Gas_Canister Lightmap UV are overlapping by 61.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.11:139][983]LightingResults: Warning: power_cell Object has overlapping UVs.
+[2018.03.09-19.07.11:177][984]LightingResults: power_cell Lightmap UV are overlapping by 91.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.11:406][991]LightingResults: Warning: bottle Object has overlapping UVs.
+[2018.03.09-19.07.11:763][997]LightingResults: bottle Lightmap UV are overlapping by 93.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.19:514][ 27]LightingResults: Warning: wall_space_window Object has overlapping UVs.
+[2018.03.09-19.07.19:514][ 27]LightingResults: wall_space_window Lightmap UV are overlapping by 95.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.19:514][ 27]LightingResults: Warning: couch Object has overlapping UVs.
+[2018.03.09-19.07.19:514][ 27]LightingResults: couch Lightmap UV are overlapping by 93.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.19:514][ 27]LightingResults: Warning: Gas_Canister Object has overlapping UVs.
+[2018.03.09-19.07.19:514][ 27]LightingResults: Gas_Canister Lightmap UV are overlapping by 61.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.19:514][ 27]LightingResults: Warning: stairs Object has overlapping UVs.
+[2018.03.09-19.07.19:514][ 27]LightingResults: stairs Lightmap UV are overlapping by 99.6%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.19:514][ 27]LightingResults: Warning: fern Object has overlapping UVs.
+[2018.03.09-19.07.19:514][ 27]LightingResults: fern Lightmap UV are overlapping by 72.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.19:515][ 27]LightingResults: Warning: fern Object has overlapping UVs.
+[2018.03.09-19.07.19:515][ 27]LightingResults: fern Lightmap UV are overlapping by 72.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.19:515][ 27]LightingResults: Warning: cig_tray Object has overlapping UVs.
+[2018.03.09-19.07.19:515][ 27]LightingResults: cig_tray Lightmap UV are overlapping by 88.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.19:515][ 27]LightingResults: Warning: aircon Object has overlapping UVs.
+[2018.03.09-19.07.19:515][ 27]LightingResults: aircon Lightmap UV are overlapping by 90.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.19:515][ 27]LightingResults: Warning: C Object has overlapping UVs.
+[2018.03.09-19.07.19:515][ 27]LightingResults: C Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.19:515][ 27]LightingResults: Warning: bottle Object has overlapping UVs.
+[2018.03.09-19.07.19:515][ 27]LightingResults: bottle Lightmap UV are overlapping by 93.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.19:515][ 27]LightingResults: Warning: wall_pocket Object has overlapping UVs.
+[2018.03.09-19.07.19:515][ 27]LightingResults: wall_pocket Lightmap UV are overlapping by 98.9%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.19:516][ 27]LightingResults: Warning: bottle Object has overlapping UVs.
+[2018.03.09-19.07.19:516][ 27]LightingResults: bottle Lightmap UV are overlapping by 93.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.19:516][ 27]LightingResults: Warning: wall_goingup Object has overlapping UVs.
+[2018.03.09-19.07.19:516][ 27]LightingResults: wall_goingup Lightmap UV are overlapping by 94.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.07.19:754][ 34]Job is a success!
+[2018.03.09-19.07.20:926][ 35]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.03.09-19.07.20:926][ 35]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.03.09-19.07.20:926][ 35]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.03.09-19.07.20:926][ 35]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.03.09-19.07.20:926][ 35]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.03.09-19.07.20:926][ 35]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.03.09-19.07.21:064][ 35]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 32X32)
+[2018.03.09-19.07.21:064][ 35]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (BGRA8, 128X512)
+[2018.03.09-19.07.21:064][ 35]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (BGRA8, 1024X256)
+[2018.03.09-19.07.21:126][ 35]LogStaticLightingSystem: Illumination: 23.4 sec (1.01 sec encoding lightmaps, 126 ms encoding shadowmaps)
+[2018.03.09-19.07.21:126][ 35]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2018.03.09-19.07.21:126][ 35]LogStaticLightingSystem: Shadowmap texture memory: 1.7 MB (1.3 MB streaming, 0.3 MB non-streaming), 3 textures
+[2018.03.09-19.07.21:225][ 35]DumpUnbuiltLightIteractions
+[2018.03.09-19.07.21:225][ 35]Lights with unbuilt interactions: 0
+[2018.03.09-19.07.21:225][ 35]
+[2018.03.09-19.07.21:225][ 35]Primitives with unbuilt interactions: 0
+[2018.03.09-19.07.21:253][ 36]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.03.09-19.07.21:253][ 36]MapCheck: New page: miniroom - 9 Mar 2018 19:07:21
+[2018.03.09-19.07.21:349][ 36]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 96.36ms to complete.
+[2018.03.09-19.08.28:613][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.09-19.08.28:807][446]LogSavePackage: Save=132.00ms
+[2018.03.09-19.08.28:808][446]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroom0892404A4672438DDF82DFA45A6E664F.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap'
+[2018.03.09-19.08.28:811][446]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap
+[2018.03.09-19.08.28:859][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom_BuiltData" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset" SILENT=true
+[2018.03.09-19.08.29:046][446]LogSavePackage: Save=165.86ms
+[2018.03.09-19.08.29:046][446]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroom_BuiltData192D7A5542681AF6EA6C5F83D80944D9.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset'
+[2018.03.09-19.08.29:050][446]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset
+[2018.03.09-19.10.14:798][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.09-19.10.14:993][223]LogSavePackage: Save=137.07ms
+[2018.03.09-19.10.14:993][223]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroom743D2D8B40F37D051CD70389640AD8EA.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap'
+[2018.03.09-19.10.14:996][223]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap
+[2018.03.09-19.10.15:034][223]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom_BuiltData" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset" SILENT=true
+[2018.03.09-19.10.15:214][223]LogSavePackage: Save=161.57ms
+[2018.03.09-19.10.15:214][223]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroom_BuiltData1CFFD51A4ABE86072C4CA499E9A4971F.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset'
+[2018.03.09-19.10.15:216][223]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset
+[2018.03.09-19.10.19:182][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_extra)
+[2018.03.09-19.10.39:364][185]Cmd: TRANSACTION UNDO
+[2018.03.09-19.10.39:364][185]LogEditorTransaction: Undo Rotate Actors
+[2018.03.09-19.10.44:450][599]Cmd: TRANSACTION UNDO
+[2018.03.09-19.10.44:450][599]LogEditorTransaction: Undo Scale Actors
+[2018.03.09-19.10.53:864][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (wall_extra2)
+[2018.03.09-19.11.01:806][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fern2)
+[2018.03.09-19.12.47:744][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.09-19.20.18:663][ 55]LogSavePackage: Save=171.29ms
+[2018.03.09-19.20.18:663][ 55]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroom_Auto3AF7E559142E3EE8048648A8451384B14.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/Autosaves/Game/miniroom_Auto3.umap'
+[2018.03.09-19.20.18:668][ 55]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/Autosaves/Game/miniroom_Auto3.umap
+[2018.03.09-19.20.18:671][ 55]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/miniroom' took 0.228
+[2018.03.09-19.20.18:671][ 55]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.228
+[2018.03.09-19.20.18:675][ 55]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/wall_corner] ([1] browsable assets)...
+[2018.03.09-19.20.18:704][ 55]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPersonBP/wall_corner.wall_corner]
+[2018.03.09-19.20.18:704][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/wall_corner]
+[2018.03.09-19.20.18:740][ 55]LogSavePackage: Save=18.59ms
+[2018.03.09-19.20.18:740][ 55]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/wall_corner_Auto3A48803FA49D213342F6A868D0B93F97C.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/Autosaves/Game/ThirdPersonBP/wall_corner_Auto3.uasset'
+[2018.03.09-19.20.18:742][ 55]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/Autosaves/Game/ThirdPersonBP/wall_corner_Auto3.uasset
+[2018.03.09-19.20.18:742][ 55]LogFileHelpers: Auto-saving content packages took 0.068
+[2018.03.09-19.36.22:123][185]LogEditorFactories: Performing atomic reimport of [D:/stuff/my environments/environments/space horror games/scenes/wall goingup.fbx]
+[2018.03.09-19.36.22:188][185]LogFbx: Loading FBX Scene from D:/stuff/my environments/environments/space horror games/scenes/wall goingup.fbx
+[2018.03.09-19.36.22:197][185]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.09-19.36.22:201][185]LogFbx: Warning: Triangulating static mesh polySurface21
+[2018.03.09-19.36.22:272][185]LogStaticMesh: Building static mesh wall_goingup...
+[2018.03.09-19.36.22:274][185]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPersonBP/wall_goingup.wall_goingup
+[2018.03.09-19.36.22:285][185]LogEditorFactories: -- imported successfully
+[2018.03.09-19.36.32:239][936]MapCheck: New page: Map Check
+[2018.03.09-19.36.32:258][936]Cmd: MAP REBUILD ALLVISIBLE
+[2018.03.09-19.36.32:258][936]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.03.09-19.36.32:318][936]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.03.09-19.36.32:330][936]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.03.09-19.36.32:337][936]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_33, compiling. 
+[2018.03.09-19.36.32:351][936]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy defaultMat, compiling. 
+[2018.03.09-19.36.32:367][936]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ferntex, compiling. 
+[2018.03.09-19.36.32:377][936]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2018.03.09-19.36.35:592][936]TextureStreamingBuild: Display: Compiling optional shaders took 3.286 seconds.
+[2018.03.09-19.36.35:602][936]LogLevel: Display: Export Material TexCoord Scales took 0.010 seconds.
+[2018.03.09-19.36.35:621][936]TextureStreamingBuild: Display: Build Texture Streaming took 0.018 seconds.
+[2018.03.09-19.36.35:648][936]LightingResults: New page: Lighting Build - 9 Mar 2018 19:36:35
+[2018.03.09-19.36.35:680][936]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.03.09-19.36.35:683][936]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.03.09-19.36.35:683][936]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.03.09-19.36.35:686][936]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.03.09-19.36.35:686][936]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14200
+[2018.03.09-19.36.40:196][936]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.03.09-19.36.40:197][936]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.03.09-19.36.40:197][936]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.03.09-19.36.40:197][936]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.03.09-19.36.40:197][936]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.03.09-19.36.40:197][936]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.03.09-19.36.40:297][936]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.03.09-19.36.40:297][936]MapCheck: New page: miniroom - 9 Mar 2018 19:36:40
+[2018.03.09-19.36.40:299][936]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.03.09-19.36.40:397][936]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 99.558ms to complete.
+[2018.03.09-19.36.40:419][936]LogEditorBuildUtils: Build time 0:08
+[2018.03.09-19.36.48:327][170]LightingResults: Warning: power_cell Object has overlapping UVs.
+[2018.03.09-19.36.48:511][172]LightingResults: power_cell Lightmap UV are overlapping by 91.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.36.48:569][173]LightingResults: Warning: Gas_Canister Object has overlapping UVs.
+[2018.03.09-19.36.48:646][175]LightingResults: Gas_Canister Lightmap UV are overlapping by 61.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.36.48:939][180]LightingResults: Warning: magazines Object has overlapping UVs.
+[2018.03.09-19.36.48:939][180]LightingResults: magazines Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.36.50:066][205]LightingResults: Warning: bottle Object has overlapping UVs.
+[2018.03.09-19.36.50:066][205]LightingResults: bottle Lightmap UV are overlapping by 93.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.36.50:137][208]LightingResults: Warning: stairs Object has overlapping UVs.
+[2018.03.09-19.36.50:137][208]LightingResults: stairs Lightmap UV are overlapping by 99.6%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.36.50:623][222]LightingResults: Warning: aircon Object has overlapping UVs.
+[2018.03.09-19.36.50:623][222]LightingResults: aircon Lightmap UV are overlapping by 90.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.36.51:235][225]LightingResults: Warning: bottle Object has overlapping UVs.
+[2018.03.09-19.36.51:235][225]LightingResults: bottle Lightmap UV are overlapping by 93.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.36.51:437][236]LightingResults: Warning: Gas_Canister Object has overlapping UVs.
+[2018.03.09-19.36.51:477][238]LightingResults: Gas_Canister Lightmap UV are overlapping by 61.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.36.51:985][267]LightingResults: Warning: power_cell Object has overlapping UVs.
+[2018.03.09-19.36.52:049][270]LightingResults: power_cell Lightmap UV are overlapping by 91.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.36.52:089][272]LightingResults: Warning: wall_space_window Object has overlapping UVs.
+[2018.03.09-19.36.52:089][272]LightingResults: wall_space_window Lightmap UV are overlapping by 95.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.36.52:590][294]LightingResults: Warning: couch Object has overlapping UVs.
+[2018.03.09-19.36.52:611][295]LightingResults: couch Lightmap UV are overlapping by 93.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.36.52:801][306]LightingResults: Warning: fern Object has overlapping UVs.
+[2018.03.09-19.36.52:801][306]LightingResults: fern Lightmap UV are overlapping by 72.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.36.53:447][332]LightingResults: Warning: fern Object has overlapping UVs.
+[2018.03.09-19.36.53:519][334]LightingResults: fern Lightmap UV are overlapping by 72.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.36.54:254][353]LightingResults: Warning: cig_tray Object has overlapping UVs.
+[2018.03.09-19.36.54:254][353]LightingResults: cig_tray Lightmap UV are overlapping by 88.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.36.55:335][389]LightingResults: Warning: main_entrance Object has overlapping UVs.
+[2018.03.09-19.36.55:335][389]LightingResults: main_entrance Lightmap UV are overlapping by 98.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.36.55:498][393]LightingResults: Warning: C Object has overlapping UVs.
+[2018.03.09-19.36.55:498][393]LightingResults: C Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.36.55:927][408]LightingResults: Warning: wall_pocket Object has overlapping UVs.
+[2018.03.09-19.36.55:927][408]LightingResults: wall_pocket Lightmap UV are overlapping by 98.9%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.36.58:049][487]LightingResults: Warning: wall_pocket Object has overlapping UVs.
+[2018.03.09-19.36.58:060][488]LightingResults: wall_pocket Lightmap UV are overlapping by 98.9%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.36.59:707][543]LightingResults: Warning: bottle Object has overlapping UVs.
+[2018.03.09-19.36.59:747][545]LightingResults: bottle Lightmap UV are overlapping by 93.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.37.00:906][579]Job is a success!
+[2018.03.09-19.37.01:982][581]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.03.09-19.37.01:982][581]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.03.09-19.37.01:982][581]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.03.09-19.37.01:982][581]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.03.09-19.37.01:982][581]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.03.09-19.37.01:982][581]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.03.09-19.37.02:116][581]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 32X32)
+[2018.03.09-19.37.02:116][581]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 128X512)
+[2018.03.09-19.37.02:116][581]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (BGRA8, 1024X256)
+[2018.03.09-19.37.02:188][581]LogStaticLightingSystem: Illumination: 26.5 sec (952 ms encoding lightmaps, 120 ms encoding shadowmaps)
+[2018.03.09-19.37.02:188][581]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2018.03.09-19.37.02:188][581]LogStaticLightingSystem: Shadowmap texture memory: 1.7 MB (1.3 MB streaming, 0.3 MB non-streaming), 3 textures
+[2018.03.09-19.37.02:206][581]DumpUnbuiltLightIteractions
+[2018.03.09-19.37.02:206][581]Lights with unbuilt interactions: 0
+[2018.03.09-19.37.02:206][581]
+[2018.03.09-19.37.02:206][581]Primitives with unbuilt interactions: 0
+[2018.03.09-19.37.02:233][582]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.03.09-19.37.02:234][582]MapCheck: New page: miniroom - 9 Mar 2018 19:37:02
+[2018.03.09-19.37.02:347][582]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 113.539ms to complete.
+[2018.03.09-19.37.55:543][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.09-19.37.55:767][699]LogSavePackage: Save=155.17ms
+[2018.03.09-19.37.55:767][699]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroomD3B2D43B43848D188BC3ABA01F1809BC.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap'
+[2018.03.09-19.37.55:771][699]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap
+[2018.03.09-19.37.55:810][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom_BuiltData" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset" SILENT=true
+[2018.03.09-19.37.55:996][699]LogSavePackage: Save=163.91ms
+[2018.03.09-19.37.55:996][699]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroom_BuiltDataE7B1EF1C4DF00E241B47C9A9A89B0507.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset'
+[2018.03.09-19.37.56:000][699]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset
+[2018.03.09-19.46.10:721][491]LogEditorFactories: Performing atomic reimport of [D:/stuff/my environments/environments/space horror games/scenes/bottle.obj]
+[2018.03.09-19.46.10:783][491]LogFbx: Loading FBX Scene from D:/stuff/my environments/environments/space horror games/scenes/bottle.obj
+[2018.03.09-19.46.10:793][491]LogFbx: FBX Scene Loaded Succesfully
+[2018.03.09-19.46.10:796][491]LogFbx: Warning: Triangulating static mesh default
+[2018.03.09-19.46.11:016][491]LogStaticMesh: Building static mesh bottle...
+[2018.03.09-19.46.11:026][491]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPersonBP/bottle.bottle
+[2018.03.09-19.46.11:039][491]LogEditorFactories: -- imported successfully
+[2018.03.09-19.46.18:539][ 30]MapCheck: New page: Map Check
+[2018.03.09-19.46.18:568][ 30]Cmd: MAP REBUILD ALLVISIBLE
+[2018.03.09-19.46.18:568][ 30]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.03.09-19.46.18:631][ 30]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.03.09-19.46.18:642][ 30]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2018.03.09-19.46.18:650][ 30]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_34, compiling. 
+[2018.03.09-19.46.18:661][ 30]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy defaultMat, compiling. 
+[2018.03.09-19.46.18:674][ 30]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ferntex, compiling. 
+[2018.03.09-19.46.18:685][ 30]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy lambert1, compiling. 
+[2018.03.09-19.46.22:476][ 30]TextureStreamingBuild: Display: Compiling optional shaders took 3.855 seconds.
+[2018.03.09-19.46.22:484][ 30]LogLevel: Display: Export Material TexCoord Scales took 0.008 seconds.
+[2018.03.09-19.46.22:497][ 30]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2018.03.09-19.46.22:519][ 30]LightingResults: New page: Lighting Build - 9 Mar 2018 19:46:22
+[2018.03.09-19.46.22:541][ 30]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.03.09-19.46.22:544][ 30]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.03.09-19.46.22:545][ 30]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.03.09-19.46.22:546][ 30]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.03.09-19.46.22:546][ 30]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14200
+[2018.03.09-19.46.27:059][ 30]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.03.09-19.46.27:059][ 30]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.03.09-19.46.27:059][ 30]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.03.09-19.46.27:059][ 30]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.03.09-19.46.27:059][ 30]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.03.09-19.46.27:059][ 30]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.03.09-19.46.27:172][ 30]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.03.09-19.46.27:172][ 30]MapCheck: New page: miniroom - 9 Mar 2018 19:46:27
+[2018.03.09-19.46.27:174][ 30]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.03.09-19.46.27:272][ 30]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 99.561ms to complete.
+[2018.03.09-19.46.27:294][ 30]LogEditorBuildUtils: Build time 0:08
+[2018.03.09-19.46.33:383][226]LightingResults: Warning: Gas_Canister Object has overlapping UVs.
+[2018.03.09-19.46.33:753][241]LightingResults: Gas_Canister Lightmap UV are overlapping by 61.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.46.34:554][275]LightingResults: Warning: power_cell Object has overlapping UVs.
+[2018.03.09-19.46.34:626][277]LightingResults: power_cell Lightmap UV are overlapping by 91.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.46.35:028][290]LightingResults: Warning: magazines Object has overlapping UVs.
+[2018.03.09-19.46.35:050][291]LightingResults: magazines Lightmap UV are overlapping by 66.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.46.35:518][310]LightingResults: Warning: stairs Object has overlapping UVs.
+[2018.03.09-19.46.35:574][311]LightingResults: stairs Lightmap UV are overlapping by 99.6%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.46.36:292][333]LightingResults: Warning: aircon Object has overlapping UVs.
+[2018.03.09-19.46.36:292][333]LightingResults: aircon Lightmap UV are overlapping by 90.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.46.37:229][366]LightingResults: Warning: Gas_Canister Object has overlapping UVs.
+[2018.03.09-19.46.37:380][370]LightingResults: Gas_Canister Lightmap UV are overlapping by 61.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.46.37:607][376]LightingResults: Warning: couch Object has overlapping UVs.
+[2018.03.09-19.46.37:664][378]LightingResults: couch Lightmap UV are overlapping by 93.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.46.37:914][381]LightingResults: Warning: power_cell Object has overlapping UVs.
+[2018.03.09-19.46.37:953][382]LightingResults: power_cell Lightmap UV are overlapping by 91.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.46.39:034][421]LightingResults: Warning: fern Object has overlapping UVs.
+[2018.03.09-19.46.39:034][421]LightingResults: fern Lightmap UV are overlapping by 72.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.46.39:273][428]LightingResults: Warning: fern Object has overlapping UVs.
+[2018.03.09-19.46.39:318][429]LightingResults: fern Lightmap UV are overlapping by 72.2%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.46.40:254][463]LightingResults: Warning: main_entrance Object has overlapping UVs.
+[2018.03.09-19.46.40:298][464]LightingResults: main_entrance Lightmap UV are overlapping by 98.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.46.40:907][483]LightingResults: Warning: cig_tray Object has overlapping UVs.
+[2018.03.09-19.46.40:937][485]LightingResults: cig_tray Lightmap UV are overlapping by 88.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.46.41:153][494]LightingResults: Warning: C Object has overlapping UVs.
+[2018.03.09-19.46.41:222][496]LightingResults: C Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.46.42:829][549]LightingResults: Warning: wall_pocket Object has overlapping UVs.
+[2018.03.09-19.46.42:891][551]LightingResults: wall_pocket Lightmap UV are overlapping by 98.9%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.46.42:891][551]LightingResults: Warning: wall_pocket Object has overlapping UVs.
+[2018.03.09-19.46.42:891][551]LightingResults: wall_pocket Lightmap UV are overlapping by 98.9%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.46.45:502][629]LightingResults: Warning: wall_space_window Object has overlapping UVs.
+[2018.03.09-19.46.45:502][629]LightingResults: wall_space_window Lightmap UV are overlapping by 95.5%. Please adjust content - Enable Error Coloring to visualize.
+[2018.03.09-19.46.47:204][691]Job is a success!
+[2018.03.09-19.46.48:294][692]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.03.09-19.46.48:294][692]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.03.09-19.46.48:294][692]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.03.09-19.46.48:294][692]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.03.09-19.46.48:294][692]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2018.03.09-19.46.48:294][692]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2018.03.09-19.46.48:447][692]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 32X32)
+[2018.03.09-19.46.48:447][692]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (BGRA8, 128X512)
+[2018.03.09-19.46.48:447][692]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (BGRA8, 1024X256)
+[2018.03.09-19.46.48:501][692]LogStaticLightingSystem: Illumination: 25.9 sec (962 ms encoding lightmaps, 140 ms encoding shadowmaps)
+[2018.03.09-19.46.48:501][692]LogStaticLightingSystem: Lightmap texture memory:  4.0 MB (2.0 MB streaming, 2.0 MB non-streaming), 6 textures
+[2018.03.09-19.46.48:501][692]LogStaticLightingSystem: Shadowmap texture memory: 1.7 MB (1.3 MB streaming, 0.3 MB non-streaming), 3 textures
+[2018.03.09-19.46.49:077][692]DumpUnbuiltLightIteractions
+[2018.03.09-19.46.49:077][692]Lights with unbuilt interactions: 0
+[2018.03.09-19.46.49:077][692]
+[2018.03.09-19.46.49:077][692]Primitives with unbuilt interactions: 0
+[2018.03.09-19.46.49:099][693]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.03.09-19.46.49:099][693]MapCheck: New page: miniroom - 9 Mar 2018 19:46:49
+[2018.03.09-19.46.49:201][693]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.503ms to complete.
+[2018.03.09-19.47.35:703][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.09-19.47.35:923][533]LogSavePackage: Save=154.51ms
+[2018.03.09-19.47.35:923][533]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroomCD989B5E44EFA3693756A0AB576BA051.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap'
+[2018.03.09-19.47.35:928][533]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap
+[2018.03.09-19.47.35:962][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom_BuiltData" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset" SILENT=true
+[2018.03.09-19.47.36:154][533]LogSavePackage: Save=171.57ms
+[2018.03.09-19.47.36:154][533]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroom_BuiltData9F0059764D59EEEC7141FD8A43783ED3.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset'
+[2018.03.09-19.47.36:159][533]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset
+[2018.03.09-19.47.48:738][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.09-19.47.48:914][538]LogSavePackage: Save=136.39ms
+[2018.03.09-19.47.48:914][538]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroomF9649E254088022767F627AB066FE367.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap'
+[2018.03.09-19.47.48:916][538]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom.umap
+[2018.03.09-19.47.48:949][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/miniroom_BuiltData" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset" SILENT=true
+[2018.03.09-19.47.49:138][538]LogSavePackage: Save=169.37ms
+[2018.03.09-19.47.49:138][538]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/miniroom_BuiltDataFAFEB9C34E997752FC625BA9B2E2B531.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset'
+[2018.03.09-19.47.49:140][538]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/miniroom_BuiltData.uasset
+[2018.03.09-19.54.49:560][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/bottle" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/bottle.uasset" SILENT=true
+[2018.03.09-19.54.49:624][158]LogSavePackage: Save=16.76ms
+[2018.03.09-19.54.49:624][158]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/bottle74F2F18D443D74A9A3A4C9A2A184E793.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/bottle.uasset'
+[2018.03.09-19.54.49:627][158]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/bottle.uasset
+[2018.03.09-19.54.49:637][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ferntex" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/ferntex.uasset" SILENT=true
+[2018.03.09-19.54.49:681][158]LogSavePackage: Save=18.69ms
+[2018.03.09-19.54.49:681][158]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/ferntex9A5561DF403D51FF1EE3D4A00DF7CF13.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/ferntex.uasset'
+[2018.03.09-19.54.49:684][158]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/ferntex.uasset
+[2018.03.09-19.54.49:689][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/lambert1" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/lambert1.uasset" SILENT=true
+[2018.03.09-19.54.49:714][158]LogSavePackage: Save=4.14ms
+[2018.03.09-19.54.49:714][158]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/lambert1DCE902C14231F89CB737E8BE5350E622.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/lambert1.uasset'
+[2018.03.09-19.54.49:717][158]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/lambert1.uasset
+[2018.03.09-19.54.49:722][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/wall_1" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/wall_1.uasset" SILENT=true
+[2018.03.09-19.54.49:750][158]LogSavePackage: Save=6.59ms
+[2018.03.09-19.54.49:750][158]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/wall_1433D64214CBD520203607F9C04165E2A.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/wall_1.uasset'
+[2018.03.09-19.54.49:754][158]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/wall_1.uasset
+[2018.03.09-19.54.49:759][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/wall_corner" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/wall_corner.uasset" SILENT=true
+[2018.03.09-19.54.49:786][158]LogSavePackage: Save=7.44ms
+[2018.03.09-19.54.49:787][158]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/wall_corner3E6A2F514D94343E688EF09717B9F4F6.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/wall_corner.uasset'
+[2018.03.09-19.54.49:791][158]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/wall_corner.uasset
+[2018.03.09-19.54.49:821][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/wall_goingup" FILE="../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/wall_goingup.uasset" SILENT=true
+[2018.03.09-19.54.49:863][158]LogSavePackage: Save=17.62ms
+[2018.03.09-19.54.49:863][158]LogSavePackage: Moving '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/wall_goingup6746726448031D9DD4AD9BAFBD7AEA94.tmp' to '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/wall_goingup.uasset'
+[2018.03.09-19.54.49:865][158]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/ThirdPersonBP/wall_goingup.uasset
+[2018.03.09-19.54.50:161][159]Cmd: QUIT_EDITOR
+[2018.03.09-19.54.50:214][159]LogExit: Preparing to exit.
+[2018.03.09-19.54.50:540][159]LogDirectoryWatcher: A directory notification failed for 'C:/Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/', and we were unable to create a new request.
+[2018.03.09-19.54.50:588][159]LogExit: Editor shut down
+[2018.03.09-19.54.50:596][159]LogExit: Transaction tracking system shut down
+[2018.03.09-19.54.50:777][159]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.09-19.54.50:777][159]LogDirectoryWatcher: A directory notification for '../../../../../../Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/' was aborted.
+[2018.03.09-19.54.50:777][159]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.09-19.54.50:777][159]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.09-19.54.50:777][159]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.09-19.54.50:939][159]LogExit: Object subsystem successfully closed.
+[2018.03.09-19.54.50:967][159]LogD3D11RHI: Shutdown
+[2018.03.09-19.54.50:967][159]LogD3D11RHI: CleanupD3DDevice
+[2018.03.09-19.54.50:995][159]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.09-19.54.51:027][159]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (536)
+[2018.03.09-19.54.51:027][159]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (534)
+[2018.03.09-19.54.51:027][159]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (532)
+[2018.03.09-19.54.51:027][159]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.03.09-19.54.51:027][159]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.03.09-19.54.51:027][159]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.03.09-19.54.51:027][159]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2018.03.09-19.54.51:029][159]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.03.09-19.54.51:029][159]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.03.09-19.54.51:029][159]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.03.09-19.54.51:029][159]LogDirectoryWatcher: A directory notification for 'C:/Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/Collections/' was aborted.
+[2018.03.09-19.54.51:029][159]LogDirectoryWatcher: A directory notification for 'C:/Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Content/Developers/AZZ122/Collections/' was aborted.
+[2018.03.09-19.54.51:029][159]LogDirectoryWatcher: A directory notification for 'C:/Users/AZZ122/Documents/Unreal Projects/scifiminiroom/Saved/Collections/' was aborted.
+[2018.03.09-19.54.51:029][159]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.03.09-19.54.51:029][159]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.03.09-19.54.51:029][159]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.03.09-19.54.51:030][159]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.03.09-19.54.51:030][159]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.03.09-19.54.51:030][159]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.03.09-19.54.51:030][159]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.03.09-19.54.51:030][159]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.03.09-19.54.51:030][159]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.03.09-19.54.51:030][159]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.03.09-19.54.51:030][159]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.03.09-19.54.51:030][159]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.03.09-19.54.51:030][159]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.03.09-19.54.51:030][159]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.03.09-19.54.51:030][159]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.03.09-19.54.51:031][159]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.03.09-19.54.51:032][159]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.03.09-19.54.51:032][159]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.03.09-19.54.51:032][159]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.03.09-19.54.51:032][159]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2018.03.09-19.54.51:032][159]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2018.03.09-19.54.51:032][159]LogModuleManager: Shutting down and abandoning module Media (477)
+[2018.03.09-19.54.51:032][159]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2018.03.09-19.54.51:032][159]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2018.03.09-19.54.51:032][159]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2018.03.09-19.54.51:032][159]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2018.03.09-19.54.51:032][159]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2018.03.09-19.54.51:032][159]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2018.03.09-19.54.51:032][159]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2018.03.09-19.54.51:032][159]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2018.03.09-19.54.51:032][159]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2018.03.09-19.54.51:033][159]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.03.09-19.54.51:033][159]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.03.09-19.54.51:033][159]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.03.09-19.54.51:034][159]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.03.09-19.54.51:034][159]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.03.09-19.54.51:034][159]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.03.09-19.54.51:034][159]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.03.09-19.54.51:741][159]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.03.09-19.54.51:742][159]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.03.09-19.54.51:742][159]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.03.09-19.54.51:742][159]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.03.09-19.54.51:742][159]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.03.09-19.54.51:743][159]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.03.09-19.54.51:743][159]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.03.09-19.54.51:744][159]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.03.09-19.54.51:744][159]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.03.09-19.54.51:744][159]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.03.09-19.54.51:744][159]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.03.09-19.54.51:744][159]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.03.09-19.54.51:744][159]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.03.09-19.54.51:744][159]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.03.09-19.54.51:744][159]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.03.09-19.54.51:744][159]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.03.09-19.54.51:744][159]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.03.09-19.54.51:745][159]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.03.09-19.54.51:745][159]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.03.09-19.54.51:745][159]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.03.09-19.54.51:745][159]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.03.09-19.54.51:745][159]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.03.09-19.54.51:745][159]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.03.09-19.54.51:745][159]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.03.09-19.54.51:786][159]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.03.09-19.54.51:786][159]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.03.09-19.54.51:786][159]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.03.09-19.54.51:787][159]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.03.09-19.54.51:787][159]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.03.09-19.54.51:788][159]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.03.09-19.54.51:788][159]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.03.09-19.54.51:788][159]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.03.09-19.54.51:788][159]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.03.09-19.54.51:788][159]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.03.09-19.54.51:789][159]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.03.09-19.54.51:789][159]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.03.09-19.54.51:789][159]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.03.09-19.54.51:789][159]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.03.09-19.54.51:789][159]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.03.09-19.54.51:789][159]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.03.09-19.54.51:789][159]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.03.09-19.54.51:790][159]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.03.09-19.54.51:790][159]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.03.09-19.54.51:790][159]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2018.03.09-19.54.51:790][159]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2018.03.09-19.54.51:790][159]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2018.03.09-19.54.51:790][159]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2018.03.09-19.54.51:790][159]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2018.03.09-19.54.51:790][159]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2018.03.09-19.54.51:790][159]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2018.03.09-19.54.51:790][159]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2018.03.09-19.54.51:790][159]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2018.03.09-19.54.51:790][159]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2018.03.09-19.54.51:790][159]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2018.03.09-19.54.51:790][159]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2018.03.09-19.54.52:028][159]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2018.03.09-19.54.52:028][159]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2018.03.09-19.54.52:028][159]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2018.03.09-19.54.52:028][159]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2018.03.09-19.54.52:028][159]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2018.03.09-19.54.52:028][159]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2018.03.09-19.54.52:028][159]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2018.03.09-19.54.52:028][159]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2018.03.09-19.54.52:028][159]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2018.03.09-19.54.52:028][159]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2018.03.09-19.54.52:028][159]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2018.03.09-19.54.52:029][159]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.03.09-19.54.52:029][159]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.03.09-19.54.52:029][159]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.03.09-19.54.52:029][159]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.03.09-19.54.52:029][159]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.03.09-19.54.52:029][159]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.03.09-19.54.52:029][159]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.03.09-19.54.52:029][159]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.03.09-19.54.52:029][159]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.03.09-19.54.52:029][159]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2018.03.09-19.54.52:029][159]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2018.03.09-19.54.52:029][159]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2018.03.09-19.54.52:029][159]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2018.03.09-19.54.52:029][159]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2018.03.09-19.54.52:029][159]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2018.03.09-19.54.52:030][159]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2018.03.09-19.54.52:030][159]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2018.03.09-19.54.52:030][159]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2018.03.09-19.54.52:030][159]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2018.03.09-19.54.52:030][159]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2018.03.09-19.54.52:030][159]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.03.09-19.54.52:031][159]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.03.09-19.54.52:031][159]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.03.09-19.54.52:031][159]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.03.09-19.54.52:032][159]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.03.09-19.54.52:032][159]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.03.09-19.54.52:032][159]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.03.09-19.54.52:032][159]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.03.09-19.54.52:032][159]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.03.09-19.54.52:032][159]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.03.09-19.54.52:032][159]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.03.09-19.54.52:032][159]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.03.09-19.54.52:132][159]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.03.09-19.54.52:232][159]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.03.09-19.54.52:232][159]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.03.09-19.54.52:232][159]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.03.09-19.54.52:232][159]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.03.09-19.54.52:232][159]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.03.09-19.54.52:234][159]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.03.09-19.54.52:236][159]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.03.09-19.54.52:236][159]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.03.09-19.54.52:236][159]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.03.09-19.54.52:236][159]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.03.09-19.54.52:237][159]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.03.09-19.54.52:237][159]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.03.09-19.54.52:237][159]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.03.09-19.54.52:237][159]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.03.09-19.54.52:237][159]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.03.09-19.54.52:237][159]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.03.09-19.54.52:238][159]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.03.09-19.54.52:238][159]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.03.09-19.54.52:238][159]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.03.09-19.54.52:238][159]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.03.09-19.54.52:238][159]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.03.09-19.54.52:238][159]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.03.09-19.54.52:239][159]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.03.09-19.54.52:239][159]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.03.09-19.54.52:239][159]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.03.09-19.54.52:239][159]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.03.09-19.54.52:240][159]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.03.09-19.54.52:240][159]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.03.09-19.54.52:245][159]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.03.09-19.54.52:245][159]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.03.09-19.54.52:249][159]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.03.09-19.54.52:249][159]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.03.09-19.54.52:249][159]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.03.09-19.54.52:250][159]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.03.09-19.54.52:250][159]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.03.09-19.54.52:250][159]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.03.09-19.54.52:250][159]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.09-19.54.52:250][159]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.09-19.54.52:250][159]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.09-19.54.52:250][159]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.09-19.54.52:250][159]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.09-19.54.52:250][159]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.09-19.54.52:250][159]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.09-19.54.52:250][159]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.09-19.54.52:250][159]LogModuleManager: Shutting down and abandoning module LevelSequence (148)
+[2018.03.09-19.54.52:250][159]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.03.09-19.54.52:251][159]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.03.09-19.54.52:253][159]LogDerivedDataCache: Shutdown
+[2018.03.09-19.54.52:253][159]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.03.09-19.54.52:253][159]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.03.09-19.54.52:254][159]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.03.09-19.54.52:255][159]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.03.09-19.54.52:255][159]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.03.09-19.54.52:255][159]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.03.09-19.54.52:255][159]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.03.09-19.54.52:255][159]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.03.09-19.54.52:255][159]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.03.09-19.54.52:255][159]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.03.09-19.54.52:255][159]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.03.09-19.54.52:255][159]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.03.09-19.54.52:255][159]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.03.09-19.54.52:255][159]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.03.09-19.54.52:255][159]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.03.09-19.54.52:255][159]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.03.09-19.54.52:255][159]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.03.09-19.54.52:255][159]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.03.09-19.54.52:255][159]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.09-19.54.52:255][159]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.09-19.54.52:255][159]LogOnline: Display: Unloading online subsystem: NULL
+[2018.03.09-19.54.52:255][159]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.09-19.54.52:256][159]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.09-19.54.52:256][159]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.09-19.54.52:256][159]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6E684859-418E-9A5E-D460-2A9B6F3F6964%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=99c492874708656f2e958bb17f8ed2be%7C75615892f64c48869f2679ca20226023%7Cbe500a4f-090c-4e2e-a826-b7a0807b0da6&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.09-19.54.52:305][159]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.09-19.54.52:396][159]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.09-19.54.52:396][159]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.09-19.54.52:396][159]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.09-19.54.52:396][159]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.09-19.54.52:396][159]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.09-19.54.52:396][159]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.09-19.54.52:396][159]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.09-19.54.52:398][159]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.09-19.54.52:398][159]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.09-19.54.52:398][159]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.09-19.54.52:398][159]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.09-19.54.52:398][159]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.09-19.54.52:398][159]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.09-19.54.52:398][159]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.09-19.54.52:398][159]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.09-19.54.52:398][159]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.09-19.54.52:398][159]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.09-19.54.52:398][159]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.09-19.54.52:402][159]LogExit: Exiting.
+[2018.03.09-19.54.52:418][159]Log file closed, 03/09/18 19:54:52
